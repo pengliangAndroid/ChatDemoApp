@@ -3,9 +3,6 @@
 
 ## Demo截图
 <img width="270" height="480" src="https://github.com/pengliangAndroid/ChatDemoApp/blob/master/screenshot/1.jpg"/>
-
 <img width="270" height="480" src="https://github.com/pengliangAndroid/ChatDemoApp/blob/master/screenshot/2.jpg"/>
-
 <img width="270" height="480" src="https://github.com/pengliangAndroid/ChatDemoApp/blob/master/screenshot/3.jpg"/>
-
 <img width="270" height="480" src="https://github.com/pengliangAndroid/ChatDemoApp/blob/master/screenshot/4.jpg"/>
